@@ -2,9 +2,6 @@
   "name": "heroku-deployment",
   "version": "1.0.0",
   "main": "app.js",
-  "engines": {
-    "node": "21.7.1"
-  },
   "scripts": {
     "start": "node app.js"
   },
